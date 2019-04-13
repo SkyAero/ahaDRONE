@@ -1,5 +1,5 @@
  <p align="center">
- <b> ahaDRONE datasheet</b><br>
+ <b> ahaDRONE Datasheet</b><br>
  </p>
     
 <p align="center">
@@ -8,7 +8,7 @@
 
 
   
-<img align="left" width="100" height="100" src="https://user-images.githubusercontent.com/35519782/56040045-30912c80-5d53-11e9-9780-ce9a98f9f582.png">
+<img align="left" width="150" height="100" src="https://user-images.githubusercontent.com/35519782/56040045-30912c80-5d53-11e9-9780-ce9a98f9f582.png">
   
   
 <img align="right" width="100" height="100" src="https://user-images.githubusercontent.com/35519782/56040088-47378380-5d53-11e9-9b92-07b55ab06f5a.png">
@@ -27,14 +27,15 @@
   
 Dear Enthusiast, 
 
-aha DRONE is a versatile fully hackable quadcopter project, all digital assets including airframe design, hardware and software are either developed using open source projects or have been open sourced.
+<p align="justify">aha DRONE is a versatile fully hackable quadcopter project, all digital assets including airframe design, hardware and software are either developed using open source projects or have been open sourced.
 The project is also available as a build and fly kit with many features and functionality only found in high end drones yet practical  enough to modify using some glue, paper cutter and a few lines of code.
 All up weight of the functional drone is around 245 grams, has been designed by striking a balance between UAV regulations and practical aspirations of a drone developer, the user is required to comply with all the prevailing  regulations.
 The nimble drone has a builtin webserver which enables a WiFi remote controller to navigate the drone. The drone can be modified both in code and configuration for specific mission objectives.
-aha DRONE is more than just a combination of Quadcopter frame, BLDC motors, ESC, Propellers and Flight Controller, it’s many innovations in one.
+aha DRONE is more than just a combination of Quadcopter frame, BLDC motors, ESC, Propellers and Flight Controller, it’s many innovations in one.</p>
 
 Fly Safe
-Srinivasulu Reddy
+</br>
+<&nbsp> Srinivasulu Reddy
 
 
 ## Features
