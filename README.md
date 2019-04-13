@@ -35,7 +35,7 @@ aha DRONE is more than just a combination of Quadcopter frame, BLDC motors, ESC,
 
 Fly Safe
 </br>
-<&nbsp> Srinivasulu Reddy
+&nbsp; Srinivasulu Reddy
 
 
 ## Features
