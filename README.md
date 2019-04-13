@@ -21,7 +21,9 @@
  
   </br>
   </br>
-Dear Enthusiast, 
+  <p align="left">Dear Enthusiast,
+</p>
+
 
 <p align="justify">ahaDRONE is a versatile fully hackable quadcopter project, all digital assets including airframe design, hardware and software are either developed using open source projects or have been open sourced.
 The project is also available as a build and fly kit with many features and functionality only found in high end drones yet practical  enough to modify using some glue, paper cutter and a few lines of code.
