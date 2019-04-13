@@ -19,7 +19,8 @@
 <b> ahaDRONE</b></br>
 <b> Drone with Most Innovations</b> </br>
  
-  
+  </br>
+  </br>
 Dear Enthusiast, 
 
 <p align="justify">ahaDRONE is a versatile fully hackable quadcopter project, all digital assets including airframe design, hardware and software are either developed using open source projects or have been open sourced.
